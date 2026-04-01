@@ -1,3 +1,7 @@
+*.csv
+*.xlsx
+*.json
+*.jpeg
 *.venv
 *._pycache_/
 *.vscode/
